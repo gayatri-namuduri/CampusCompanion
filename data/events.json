@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "Orientation Day", "dateISO": "2025-08-01", "imageUrl": "https://placekitten.com/400/200", "description": "Welcome new students!" },
+  { "id": 2, "title": "Hackathon", "dateISO": "2025-09-15", "imageUrl": "https://placekitten.com/401/200", "description": "24-hour coding challenge" },
+  { "id": 3, "title": "Sports Meet", "dateISO": "2025-10-10", "imageUrl": "https://placekitten.com/402/200", "description": "Annual sports day" },
+  { "id": 4, "title": "Cultural Fest", "dateISO": "2025-11-01", "imageUrl": "https://placekitten.com/403/200", "description": "Cultural performances and food stalls" },
+  { "id": 5, "title": "Career Fair", "dateISO": "2025-12-05", "imageUrl": "https://placekitten.com/404/200", "description": "Meet recruiters from top companies" },
+  { "id": 6, "title": "Tech Talk", "dateISO": "2025-12-10", "imageUrl": "https://placekitten.com/405/200", "description": "Guest lecture on AI trends" },
+  { "id": 7, "title": "Art Exhibition", "dateISO": "2025-12-15", "imageUrl": "https://placekitten.com/406/200", "description": "Showcase of student artwork" },
+  { "id": 8, "title": "Blood Donation Camp", "dateISO": "2025-12-20", "imageUrl": "https://placekitten.com/407/200", "description": "Donate blood, save lives" },
+  { "id": 9, "title": "Music Night", "dateISO": "2025-12-25", "imageUrl": "https://placekitten.com/408/200", "description": "Live band performances" },
+  { "id": 10, "title": "Graduation Ceremony", "dateISO": "2026-01-15", "imageUrl": "https://placekitten.com/409/200", "description": "Celebrate the graduating batch" }
+]
