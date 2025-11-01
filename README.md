@@ -1,51 +1,32 @@
-# Welcome to your Expo app 👋
+# Campus Companion
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Campus Companion is a React Native app (built with Expo CLI) that helps students track events, notes, and quick links. It features Drawer + Tab + Stack navigation, forms with validation, responsive layouts, and platform-specific feedback.
 
-## Get started
+---
 
-1. Install dependencies
+## Screens & Features
 
-   ```bash
-   npm install
-   ```
+- **Home Tab**
+  - Feed: Hero banner + quick links (touchable)
+  - Notes: Add/edit notes with validation and saved notes list
+- **Events Drawer**
+  - List of upcoming events
+  - EventDetails screen with custom transition and route params
+- **Profile Drawer**
+  - Editable profile with email & phone validation
+- **Settings Drawer**
+  - Toggle options arranged with Flexbox
+- **Other**
+  - LegacyClock class component demonstrating lifecycle methods
+  - Responsive UI with grid changes based on width
+  - Platform-specific feedback (Toast on Android, Alert on iOS)
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## Installation & Running
 
-In the output, you'll find options to open the app in a
+### 1. Clone the repository
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### 2. Install dependencies
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-
+### 3. Running the app - npx expo start
