@@ -25,8 +25,9 @@ Campus Companion is a React Native app (built with Expo CLI) that helps students
 
 ## Installation & Running
 
-### 1. Clone the repository
-
-### 2. Install dependencies
-
-### 3. Running the app - npx expo start
+```bash
+npm install -g expo-cli
+git clone https://github.com/<your-username>/CampusCompanion.git
+cd CampusCompanion
+npm install
+npx expo start
